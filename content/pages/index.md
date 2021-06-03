@@ -11,7 +11,7 @@ sections:
       - label: Hire Us
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Follow Us
         url: /features
         style: secondary
     image: images/classic/hero.png
