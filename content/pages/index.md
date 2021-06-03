@@ -8,7 +8,7 @@ sections:
       We provide best of best idiots in app and website development. Our mission
       is to give you no work and get paid before in advance.
     actions:
-      - label: Try Free
+      - label: Hire Us
         url: /pricing
         style: primary
       - label: Learn More
