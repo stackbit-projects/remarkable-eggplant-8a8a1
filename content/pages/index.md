@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Janki's Internship Company
     subtitle: Stupid. Idiots. Whatever you need we have them all.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      We provide best of best idiots in app and website development. Our mission
+      is to give you no work and get paid before in advance.
     actions:
       - label: Try Free
         url: /pricing
